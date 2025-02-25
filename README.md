@@ -4,8 +4,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
-
 1. Clone the app
 ```
 git clone https://github.com/kenhoward/garbage-time-fantasy.git
